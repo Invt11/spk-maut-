@@ -1,0 +1,15 @@
+price-focused:
+  txt: /workspaces/spk-maut-/maut/../results/tuning/price-focused/result_price-focused.txt
+  csv: /workspaces/spk-maut-/maut/../results/tuning/price-focused/result_price-focused.csv
+  pdf: /workspaces/spk-maut-/maut/../results/tuning/price-focused/result_price-focused.pdf
+
+duration-focused:
+  txt: /workspaces/spk-maut-/maut/../results/tuning/duration-focused/result_duration-focused.txt
+  csv: /workspaces/spk-maut-/maut/../results/tuning/duration-focused/result_duration-focused.csv
+  pdf: /workspaces/spk-maut-/maut/../results/tuning/duration-focused/result_duration-focused.pdf
+
+balanced:
+  txt: /workspaces/spk-maut-/maut/../results/tuning/balanced/result_balanced.txt
+  csv: /workspaces/spk-maut-/maut/../results/tuning/balanced/result_balanced.csv
+  pdf: /workspaces/spk-maut-/maut/../results/tuning/balanced/result_balanced.pdf
+

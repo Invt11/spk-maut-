@@ -1,0 +1,14 @@
+Preset: price-focused
+Weights:
+ - Price: 0.4
+ - Duration: 0.1
+ - Facilities: 0.2
+ - Destination: 0.15
+ - Rating: 0.15
+
+              Alternative    Price  Duration  Facilities  Destination  Rating    Score
+ B - Holiday in Singapore  5800000         4           4          4.5     4.6 1.000000
+      A - Bangkok–Pattaya 10300000         5           4          4.0     4.0 0.536538
+E - Paket Tour China 2025 15500000         7           4          4.1     4.2 0.406538
+ D - Explore Korea Alpaca 18800000         8           4          4.3     4.4 0.390000
+  C - Taiwan Hsinchu Tour 18000000         7           4          4.2     4.3 0.384615
